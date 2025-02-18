@@ -69,7 +69,7 @@
 ---
 
 ## 🌐 Languages
-![German](https://img.shields.io/badge/DE-C2%20Fluency-black?style=flat&logo=duolingo)
+![German](https://img.shields.io/badge/DE-C2%20Fluency-blue?style=flat&logo=duolingo)
 ![English](https://img.shields.io/badge/EN-C1%20Advanced-blue?style=flat&logo=duolingo)
 ![Greek](https://img.shields.io/badge/GR-Native%20Speaker-blue?style=flat&logo=duolingo)
 
