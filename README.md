@@ -46,6 +46,14 @@
 - Contributed to AI model training through quality assurance and feedback analysis
 - Maintained 95%+ customer satisfaction rating across 100+ weekly interactions
 
+### Web Developer, Logistics, Sales & Marketing @ Schwester Esther Transport, Berlin
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-44CC11?style=flat&logo=html5&logoColor=white)
+![Web Maintenance](https://img.shields.io/badge/Maintenance-FF6F00?style=flat&logo=wrench&logoColor=white) 
+- Optimized social media profiles (Facebook, Instagram, Google) for brand visibility.  
+- Implemented responsive design for multi-device compatibility.  
+- Provided post-launch website maintenance and support.  
+
 ### Web Developer @ Pi Bike Rental Berlin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![WordPress](https://img.shields.io/badge/-WordPress-21759B)
 - Developed dynamic website with custom functionalities
